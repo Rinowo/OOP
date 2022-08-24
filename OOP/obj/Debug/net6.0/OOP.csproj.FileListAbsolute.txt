@@ -1,0 +1,15 @@
+F:\T2106\C Sharp\Git\OOP\OOP\bin\Debug\net6.0\OOP.exe
+F:\T2106\C Sharp\Git\OOP\OOP\bin\Debug\net6.0\OOP.deps.json
+F:\T2106\C Sharp\Git\OOP\OOP\bin\Debug\net6.0\OOP.runtimeconfig.json
+F:\T2106\C Sharp\Git\OOP\OOP\bin\Debug\net6.0\OOP.dll
+F:\T2106\C Sharp\Git\OOP\OOP\bin\Debug\net6.0\OOP.pdb
+F:\T2106\C Sharp\Git\OOP\OOP\obj\Debug\net6.0\OOP.csproj.AssemblyReference.cache
+F:\T2106\C Sharp\Git\OOP\OOP\obj\Debug\net6.0\OOP.GeneratedMSBuildEditorConfig.editorconfig
+F:\T2106\C Sharp\Git\OOP\OOP\obj\Debug\net6.0\OOP.AssemblyInfoInputs.cache
+F:\T2106\C Sharp\Git\OOP\OOP\obj\Debug\net6.0\OOP.AssemblyInfo.cs
+F:\T2106\C Sharp\Git\OOP\OOP\obj\Debug\net6.0\OOP.csproj.CoreCompileInputs.cache
+F:\T2106\C Sharp\Git\OOP\OOP\obj\Debug\net6.0\OOP.dll
+F:\T2106\C Sharp\Git\OOP\OOP\obj\Debug\net6.0\refint\OOP.dll
+F:\T2106\C Sharp\Git\OOP\OOP\obj\Debug\net6.0\OOP.pdb
+F:\T2106\C Sharp\Git\OOP\OOP\obj\Debug\net6.0\OOP.genruntimeconfig.cache
+F:\T2106\C Sharp\Git\OOP\OOP\obj\Debug\net6.0\ref\OOP.dll

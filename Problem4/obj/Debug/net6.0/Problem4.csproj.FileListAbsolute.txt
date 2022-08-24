@@ -1,0 +1,15 @@
+F:\T2106\C Sharp\Git\OOP\Problem4\bin\Debug\net6.0\Problem4.exe
+F:\T2106\C Sharp\Git\OOP\Problem4\bin\Debug\net6.0\Problem4.deps.json
+F:\T2106\C Sharp\Git\OOP\Problem4\bin\Debug\net6.0\Problem4.runtimeconfig.json
+F:\T2106\C Sharp\Git\OOP\Problem4\bin\Debug\net6.0\Problem4.dll
+F:\T2106\C Sharp\Git\OOP\Problem4\bin\Debug\net6.0\Problem4.pdb
+F:\T2106\C Sharp\Git\OOP\Problem4\obj\Debug\net6.0\Problem4.csproj.AssemblyReference.cache
+F:\T2106\C Sharp\Git\OOP\Problem4\obj\Debug\net6.0\Problem4.GeneratedMSBuildEditorConfig.editorconfig
+F:\T2106\C Sharp\Git\OOP\Problem4\obj\Debug\net6.0\Problem4.AssemblyInfoInputs.cache
+F:\T2106\C Sharp\Git\OOP\Problem4\obj\Debug\net6.0\Problem4.AssemblyInfo.cs
+F:\T2106\C Sharp\Git\OOP\Problem4\obj\Debug\net6.0\Problem4.csproj.CoreCompileInputs.cache
+F:\T2106\C Sharp\Git\OOP\Problem4\obj\Debug\net6.0\Problem4.dll
+F:\T2106\C Sharp\Git\OOP\Problem4\obj\Debug\net6.0\refint\Problem4.dll
+F:\T2106\C Sharp\Git\OOP\Problem4\obj\Debug\net6.0\Problem4.pdb
+F:\T2106\C Sharp\Git\OOP\Problem4\obj\Debug\net6.0\Problem4.genruntimeconfig.cache
+F:\T2106\C Sharp\Git\OOP\Problem4\obj\Debug\net6.0\ref\Problem4.dll
